@@ -20,7 +20,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressContentEditableWarning>
-        <main>
+        <main className="p-5">
       <body className={inter.className}>
         <Theme>
 
